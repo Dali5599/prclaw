@@ -16,7 +16,7 @@
 
 ## Phase 3 : Review Engine, Rule Checking & Scoring
 - [x] 11. Implement Security Rules Evaluator in src/prclaw/rules/security.py
-- [ ] 12. Implement Bug Pattern and Performance Rules in src/prclaw/rules/bugs.py
+- [x] 12. Implement Bug Pattern and Performance Rules in src/prclaw/rules/bugs.py
 - [ ] 13. Implement Test Coverage and Missing Test Detector in src/prclaw/rules/tests.py
 - [ ] 14. Implement Comprehensive Review Engine in src/prclaw/review_engine.py
 - [ ] 15. Implement Confidence Scoring and Severity Filtering in src/prclaw/scoring.py
