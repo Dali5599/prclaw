@@ -10,7 +10,7 @@
 ## Phase 2 : LLM Provider Engines (Ollama, Anthropic, OpenAI/Gemini)
 - [x] 06. Implement Base LLM Provider Protocol and Prompt Templates in src/prclaw/providers/base.py
 - [x] 07. Implement Local Ollama Provider with Streaming in src/prclaw/providers/ollama_provider.py
-- [ ] 08. Implement Anthropic Claude Provider in src/prclaw/providers/anthropic_provider.py
+- [x] 08. Implement Anthropic Claude Provider in src/prclaw/providers/anthropic_provider.py
 - [ ] 09. Implement OpenAI and Gemini Provider in src/prclaw/providers/openai_provider.py
 - [ ] 10. Implement Provider Factory and Fallback Chain in src/prclaw/providers/factory.py
 
