@@ -5,7 +5,7 @@
 - [x] 02. Implement Rule Models and Review Finding Types in src/prclaw/models.py
 - [x] 03. Implement Local Git Repository Inspector in src/prclaw/git_inspector.py
 - [x] 04. Implement Language Detection and Syntax Filter in src/prclaw/languages.py
-- [ ] 05. Implement Diff Context Truncator and Token Budgeter in src/prclaw/truncator.py
+- [x] 05. Implement Diff Context Truncator and Token Budgeter in src/prclaw/truncator.py
 
 ## Phase 2 : LLM Provider Engines (Ollama, Anthropic, OpenAI/Gemini)
 - [ ] 06. Implement Base LLM Provider Protocol and Prompt Templates in src/prclaw/providers/base.py
