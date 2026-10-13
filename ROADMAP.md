@@ -15,7 +15,7 @@
 - [x] 10. Implement Provider Factory and Fallback Chain in src/prclaw/providers/factory.py
 
 ## Phase 3 : Review Engine, Rule Checking & Scoring
-- [ ] 11. Implement Security Rules Evaluator in src/prclaw/rules/security.py
+- [x] 11. Implement Security Rules Evaluator in src/prclaw/rules/security.py
 - [ ] 12. Implement Bug Pattern and Performance Rules in src/prclaw/rules/bugs.py
 - [ ] 13. Implement Test Coverage and Missing Test Detector in src/prclaw/rules/tests.py
 - [ ] 14. Implement Comprehensive Review Engine in src/prclaw/review_engine.py
