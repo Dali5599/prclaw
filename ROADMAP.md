@@ -1,7 +1,7 @@
 # PRClaw Roadmap & Task Tracker
 
 ## Phase 1 : Core Git Diff Engine & Data Models
-- [ ] 01. Implement Diff Parser and Hunk Models in src/prclaw/diff_parser.py
+- [x] 01. Implement Diff Parser and Hunk Models in src/prclaw/diff_parser.py
 - [ ] 02. Implement Rule Models and Review Finding Types in src/prclaw/models.py
 - [ ] 03. Implement Local Git Repository Inspector in src/prclaw/git_inspector.py
 - [ ] 04. Implement Language Detection and Syntax Filter in src/prclaw/languages.py
