@@ -24,6 +24,6 @@
 ## Phase 4 : Formatters, GitHub Action & CLI Integration
 - [x] 16. Implement Rich Terminal Output Formatter in src/prclaw/formatters/terminal.py
 - [x] 17. Implement SARIF Formatter for GitHub Code Scanning in src/prclaw/formatters/sarif.py
-- [ ] 18. Implement GitHub PR Comments API Client in src/prclaw/github_client.py
+- [x] 18. Implement GitHub PR Comments API Client in src/prclaw/github_client.py
 - [ ] 19. Implement Config File (.prclaw.toml) Loader in src/prclaw/config.py
 - [ ] 20. Implement Full CLI Commands (review, diff, config) in src/prclaw/cli.py
