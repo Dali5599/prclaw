@@ -19,7 +19,7 @@
 - [x] 12. Implement Bug Pattern and Performance Rules in src/prclaw/rules/bugs.py
 - [x] 13. Implement Test Coverage and Missing Test Detector in src/prclaw/rules/tests.py
 - [x] 14. Implement Comprehensive Review Engine in src/prclaw/review_engine.py
-- [ ] 15. Implement Confidence Scoring and Severity Filtering in src/prclaw/scoring.py
+- [x] 15. Implement Confidence Scoring and Severity Filtering in src/prclaw/scoring.py
 
 ## Phase 4 : Formatters, GitHub Action & CLI Integration
 - [ ] 16. Implement Rich Terminal Output Formatter in src/prclaw/formatters/terminal.py
